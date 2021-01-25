@@ -1,0 +1,11 @@
+.header {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+body {
+    background-image: url("media/background.jpg");
+    background-color: #cccccc;
+}
